@@ -26,7 +26,7 @@ function Hero() {
               animate="visible"
               className="pb-16 text-6xl font-thin tracking-tighter lg:mt-16 lg-text-8xl"
             >
-              Jay
+              Jay Mehta
             </motion.h1>
             <motion.span
               variants={container(0.5)}
